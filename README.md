@@ -61,7 +61,6 @@ http://localhost:8080/api/books
 ## 🏆 Contributors
 
 - **Salih Efehan Demir**  
-- **Other contributors if any...**  
 
 ---
 
